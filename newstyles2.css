@@ -1,0 +1,77 @@
+* {
+    background-color:rgba(208, 238, 219, 0.962)
+}
+
+header {
+    background-color: darkslategray;
+    color: black;
+    padding-left: 2%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.6em;
+    border:10px darkblue solid;
+
+}
+
+.imagenmontaña{
+    border:10px slategray solid;
+    margin-left: 46%;
+    border-top: 10%;
+    width: 15.2%;
+
+}
+
+.heading1{
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 3%;
+    padding-left: 3%;
+    
+}
+
+.heading2{
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+
+.heading3{
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+
+.parrafo1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    margin-left: 1%;
+    padding-left: 1%;
+    margin: 2em;
+
+}
+
+.parrafo2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    margin-left: 1%;
+    padding-left: 1%;
+    margin: 2em;
+}
+
+.parrafo3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    margin-left: 1%;
+    padding-left: 1%;
+    margin: 2em;
+}
+
+.piedepagina{
+    background-color: darkblue;
+    color: aliceblue;
+    font-size: 30px;
+    border: 10px darkcyan solid;
+}
+

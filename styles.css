@@ -1,0 +1,144 @@
+.select1{
+    color: blue;
+    background-color: #0AF86F;
+    text-align: center;
+    padding: 10px;
+    
+    }
+    .select2{
+      color: #e000f9;
+      background-color: black;
+      border: 20px sienna solid;
+      text-align: center;
+    }
+
+    .select3{
+      color:rgb(197, 0, 215);
+      border:10px rgb(210, 132, 6)solid;
+
+     }
+
+     .ahora{
+      background-color: salmon;
+      color:white;
+      font: size 20px;;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border:10px rgb(19, 25, 139) solid;
+      margin:10px;
+     }
+
+     h5{
+      color:blueviolet;
+      font-size: 20px;
+      border:10px green solid;
+      padding: 20px;
+      margin: 30px;
+     }
+     .parrafo1{
+      color:rgb(0, 80, 93);
+      
+     }
+  
+     #notemos{
+      font: size 20px; 
+      color:rgb(0, 0, 0);
+      border:10px rgb(0, 255, 195) solid;
+      background-color: #e9cbed;
+      padding: 10px;;
+     }
+     
+     .vehiculos{
+       
+      background-color: saddlebrown;
+      border:10px red solid;
+      color: white;
+      padding:10px 20px;
+      margin: 15px;
+
+
+     }
+      
+     .code{
+      text-align: center;
+      background-color: aquamarine;
+      border: 20px yellow solid;
+      padding: 18px;
+      margin: 10px;
+      color: blue;
+     }
+
+     
+     .ejemplocoder{
+
+      color: seagreen;
+      font-size: 20px;
+
+     }
+
+     .variable1{
+      text-align: center;
+      color:tan;
+      font-size: 30px;
+     }
+
+     .parrafo92{
+
+     text-align:center;
+
+    }
+    .parrafo93{
+
+        font-size:30px;
+        text-align:center;
+        
+    }
+
+
+     .parrafo94{
+
+     color:#0532F9;  
+    }
+
+    .parrafo95{
+        background-color: #0532F9;
+        color:pink;
+
+    }
+
+    .parrafo96{
+        border:10px slateblue solid;
+
+    }
+
+    .parrafo97{
+        border:10px #0AF86F solid;
+
+    }
+
+    .parrafo98{
+        border:5px red solid;
+
+    }
+
+    .parrafo99{
+        border:10px salmon solid;
+    }
+
+    .boton1{
+        color: black;
+        border:5px black solid;
+        padding: 5px;
+        background-color: bisque;
+        
+    }
+
+    .boton2{
+
+   
+
+    color: black;
+    border:5px black solid;
+    padding: 5px;
+    background-color: bisque;
+            
+    }
